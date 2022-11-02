@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Album BTS</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Get to Know About </string>
+    <string name="this_activity2">Base Transceiver Station atau disingkat BTS
+        adalah suatu infrastruktur telekomunikasi yang memfasilitasi komunikasi
+        nirkabel antara perangkat komunikasi dan jaringan operator. Grup vokal pria
+        ini berasal dari Korea Selatan yang beranggotakan tujuh orang, antara lain RM,
+        J-Hope, Suga, Jin, V, Jungkook, dan Jimin, yang dikelola oleh Big Hit Music.
+        Nama tersebut kemudian berakronim menjadi Beyond The Scene pada Juli 2017.</string>
+            <string name="this_activity3"></string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">Mahasiswa</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Kim Namjoon</item>
+        <item>Kim Seok Jin</item>
+        <item>Min Yoon Gi</item>
+        <item>Jung Ho Seok</item>
+        <item>Park Ji Min</item>
+        <item>Kim Tae Hyung</item>
+        <item>Jeon Jeong-guk</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Memiliki nama asli Kim Namjoon, RM didapuk sebagai leader BTS karena memiliki jiwa kepemimpinan yang tinggi.
+            Selain itu, ia juga sering menjadi juru bicara BTS saat menghadiri berbagai acara di kancah internasional
+            karena RM diketahui mahir bahasa Inggris dan Jepang.</item>
+        <item>Menjadi anggota tertua BTS, Jin dikenal dengan suaranya yang lembut dan memiliki bakat keahlian dalam memasak.
+            Pemilik nama asli Kim Seok Jin ini berasal dari keluarga kaya raya. Diketahui sang ayah merupakan seorang CEO
+            dari suatu perusahaan terkenal di Korea Selatan.</item>
+        <item>Menduduki posisi sebagai rapper, Suga dikenal sebagai member BTS yang memiliki wajah manis dan imut.
+            Bahkan, kabar yang beredar menyatakan kalau nama uniknya dipilih karena senyumannya yang semanis gula.</item>
+        <item>Sebelum bergabung bersama BTS, J-Hope merupakan anggota dari grup street dance yang bernama NEURON.
+            Selain jago dance, ia juga mahir ngerap hingga membuatnya menduduki posisi sebagai rapper.</item>
+        <item>Selain dikenal memiliki suara unik yang mewarnai lagu-lagu BTS dan jago menari, Jimin juga mendapat
+            julukan sebagai social butterfly karena memiliki karakter mudah berteman dengan banyak orang.</item>
+        <item>Kim Taehyung, nama lengkap dari V BTS dikenal sebagai salah satu member dengan wajah yang tampan dan imut.
+            Menjadi anggota BTS yang paling unik dan misterius, V diketahui sangat lancar berbicara dalam bahasa Jepang.</item>
+        <item>Menjadi member BTS paling muda, Jungkook yang pernah menempuh pendidikan di Seoul School Performing Arts
+            ini ternyata tak hanya jago menari dan memiliki suara merdu, tapi juga pintar membuat lagu.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/gbr7</item>
+        <item>@drawable/gbr6</item>
+        <item>@drawable/gbr5</item>
+        <item>@drawable/gbr4</item>
+        <item>@drawable/gbr3</item>
+        <item>@drawable/gbr2</item>
+        <item>@drawable/gbr7</item>
+
+    </integer-array>
+
+</resources>
